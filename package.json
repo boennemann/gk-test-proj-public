@@ -1,0 +1,9 @@
+{
+  "name": "gk-test-proj-public",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gk-test-dep": "^1.3.2"
+  }
+}
