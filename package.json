@@ -4,6 +4,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "gk-test-dep": "^1.3.2"
+    "gk-test-dep": "~1.2.0"
   }
 }
