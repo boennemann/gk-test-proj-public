@@ -1,5 +1,6 @@
 {
   "name": "gk-test-proj-public",
+	"author": "lol <foo@bar.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
