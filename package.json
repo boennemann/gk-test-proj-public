@@ -1,10 +1,10 @@
 {
   "name": "gk-test-proj-public",
-	"author": "lol <foo@bar.com>",
+  "author": "lol <foo@bar.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "gk-test-dep": "~1.2.0"
+    "gk-test-dep": "~16.0.0"
   }
 }
